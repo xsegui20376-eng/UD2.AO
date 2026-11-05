@@ -13,25 +13,3 @@ Aquest repositori conté les plantilles de documents administratius i comercials
 | `05_Citacio_Model_061.odt` | Citació | Citació d'Hisenda per firmar document del Model 061 |
 | `06_Contracte_Compravenda_Habitatge.odt` | Contracte | Contracte privat de compravenda d'un habitatge |
 
-## Estils i característiques aplicades
-
-- **Tipus de lletra**: Liberation Sans (títols) i Liberation Serif (cos de text)
-- **Mides**: 18 pt (títol principal), 14 pt (subtítols), 13 pt (capçaleres), 11 pt (cos), 9 pt (informació secundària)
-- **Colors**: Tons de blau institucional (#1a365d, #2c5282) i gris fosc per al text
-- **Paràgrafs**: Alineació justificada al cos, centrada en títols i signatures; interlineat adequat
-- **Marges**: 2–2,5 cm (A4)
-- **Estructura**: Capçaleres institucionals, saluts, cos, comiats, datació i espais de signatura
-- **Placeholders**: Camps entre claudàtors `[...]` per personalitzar
-
-## Objectius assolit
-
-- Ús avançat del processador de textos (estils, marges, alineacions, interlineat)
-- Disseny de plantilles de diferents tipologies documentals
-- Preparació per a inserció d'imatges (logotips) i text variable
-
-## Com obrir els documents
-
-Obriu els fitxers `.odt` amb **LibreOffice Writer** (o compatible). Podeu modificar els estils des de *Estils > Gestiona estils* i completar els camps entre claudàtors.
-
----
-*Treball realitzat en el marc de la unitat didàctica UD2.AO*
